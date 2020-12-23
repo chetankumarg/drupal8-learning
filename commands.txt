@@ -1,0 +1,18 @@
+
+Composer commands
+
+Used to install Drupal latest stable version 
+-----
+composer create-project drupal/recommended-project my_site_name_dir
+
+drupal 8/9 
+Now its download 9.
+
+For drupal 8 specific version::
+composer create-project drupal/recommended-project:8.9.11 my_site_name_dir
+
+For Drupal 7 :
+
+composer create-project drupal-composer/drupal-project:7.x-dev -n my_site_name_dir
+
+
