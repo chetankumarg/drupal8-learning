@@ -16,3 +16,7 @@ For Drupal 7 :
 composer create-project drupal-composer/drupal-project:7.x-dev -n my_site_name_dir
 
 
+Url for the use of the composer commands.
+https://www.drupal.org/docs/develop/using-composer/using-composer-to-install-drupal-and-manage-dependencies
+
+
