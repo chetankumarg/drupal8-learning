@@ -20,3 +20,8 @@ Url for the use of the composer commands.
 https://www.drupal.org/docs/develop/using-composer/using-composer-to-install-drupal-and-manage-dependencies
 
 
+To Install Devel for Drupal though Composer 
+composer require 'drupal/devel'
+
+
+
