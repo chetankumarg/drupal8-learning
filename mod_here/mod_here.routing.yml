@@ -1,0 +1,14 @@
+mode_here.content:
+  path: '/mhere'
+  defaults:
+    _controller: '\Drupal\mod_here\Controller\HeroController::content'
+    _title: 'My Module Here' 
+  requirements:
+    _permission: 'access content'  
+mode_here.customcontent:
+  path: '/mhere_custom'
+  defaults:
+    _controller: '\Drupal\mod_here\Controller\HeroController::customcontent'
+    _title: 'My Module Custom Content' 
+  requirements:
+    _permission: 'access content'      
