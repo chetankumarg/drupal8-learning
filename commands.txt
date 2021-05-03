@@ -27,3 +27,14 @@ composer require 'drupal/devel'
 drush command for creating admin user 
 
 drush user-create adminuser --mail="adminuser@uiowa.edu" --password="UserPw"; drush user-add-role "administrator" adminuser
+
+
+composer command to install features , ctools , views
+ composer require drupal/features
+ composer require drupal/views
+ composer require drupal/ctools
+ 
+ drush en views
+ drush en ctools
+ drush en features
+ 
