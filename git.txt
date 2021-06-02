@@ -1,3 +1,0 @@
-Learning the Git.
-
-List of Git commands,
