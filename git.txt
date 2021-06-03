@@ -1,0 +1,15 @@
+git commands files.
+
+For creating the branch.
+------------------------
+git branch branch-name
+
+
+For switching the branch.
+-------------------------
+git checkout branch-name 
+
+For Checking the Branch.
+------------------------
+git branch
+
