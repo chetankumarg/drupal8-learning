@@ -13,3 +13,12 @@ For Checking the Branch.
 ------------------------
 git branch
 
+
+For cloning the specific branch.
+------------------------------
+git clone --branch <branch-name> git-url
+
+For deleting the branch
+-------------------------
+git branch -d <branch-name>
+
