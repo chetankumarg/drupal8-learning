@@ -37,4 +37,7 @@ composer command to install features , ctools , views
  drush en views
  drush en ctools
  drush en features
+
+ drush cr
+ drush cc
  
