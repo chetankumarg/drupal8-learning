@@ -5,6 +5,9 @@ Used to install Drupal latest stable version
 -----
 composer create-project drupal/recommended-project my_site_name_dir
 
+Used to update the Drupal core 8 
+composer update drupal/core --with-dependencies
+
 drupal 8/9 
 Now its download 9.
 
